@@ -9,4 +9,4 @@ Projeto em Flutter para demonstrar a criação e uso de Overlays personalizados.
 2. Execute `flutter pub get`
 3. Execute `flutter run`
 
-Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Overlays em Flutter - Parte 1]()
+Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Overlays em Flutter - Parte 1](https://medium.com/@diegokalschne/9d9a03b8265a)
